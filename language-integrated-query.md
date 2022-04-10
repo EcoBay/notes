@@ -1,0 +1,3 @@
+# Language Integrated Query (LINQ)
+
+Language Integrated Query allows C# to query database or other format such as XML using directly rather than traditionally using strings which doesn't support editor autocomplete. It can also be used for functional programming style of manipulating and querying collections that implements the [`IEnumerable<T>`](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1) interface, such as 1D [array](array.md), provided by the static methods of the [`Enumerable`](https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable) class.
